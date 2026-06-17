@@ -1,0 +1,11 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+myenv/
